@@ -1,1 +1,1 @@
-{"dislikes":492,"display":"0.492K"}
+{"dislikes":492,"display":"0.492"}

@@ -1,1 +1,1 @@
-{"dislikes":1720,"display":"1720","timestamp":1636828338230}
+{"dislikes":0,"display":"DISLIKE","timestamp":1637090949448}
